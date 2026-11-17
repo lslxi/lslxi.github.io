@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://blog.qikang451.cn/sitemap.xml
+Sitemap: https://lslxi.github.io/sitemap.xml

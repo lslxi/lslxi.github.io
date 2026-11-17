@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>系列 on 西康的博客</title>
-    <link>https://blog.qikang451.cn/series/</link>
+    <link>https://lslxi.github.io/series/</link>
     <description>Recent content in 系列 on 西康的博客</description>
     <image>
       <title>西康的博客</title>
-      <url>https://blog.qikang451.cn/img/og-cover.png</url>
-      <link>https://blog.qikang451.cn/img/og-cover.png</link>
+      <url>https://lslxi.github.io/img/og-cover.png</url>
+      <link>https://lslxi.github.io/img/og-cover.png</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.qikang451.cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lslxi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes</title>
-      <link>https://blog.qikang451.cn/series/kubernetes/</link>
+      <link>https://lslxi.github.io/series/kubernetes/</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.qikang451.cn/series/kubernetes/</guid>
+      <guid>https://lslxi.github.io/series/kubernetes/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://blog.qikang451.cn/series/docker/</link>
+      <link>https://lslxi.github.io/series/docker/</link>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.qikang451.cn/series/docker/</guid>
+      <guid>https://lslxi.github.io/series/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Containerd</title>
-      <link>https://blog.qikang451.cn/series/containerd/</link>
+      <link>https://lslxi.github.io/series/containerd/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.qikang451.cn/series/containerd/</guid>
+      <guid>https://lslxi.github.io/series/containerd/</guid>
       <description></description>
     </item>
     <item>
       <title>Mysql</title>
-      <link>https://blog.qikang451.cn/series/mysql/</link>
+      <link>https://lslxi.github.io/series/mysql/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.qikang451.cn/series/mysql/</guid>
+      <guid>https://lslxi.github.io/series/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Gitlab</title>
-      <link>https://blog.qikang451.cn/series/gitlab/</link>
+      <link>https://lslxi.github.io/series/gitlab/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://blog.qikang451.cn/series/gitlab/</guid>
+      <guid>https://lslxi.github.io/series/gitlab/</guid>
       <description></description>
     </item>
     <item>
       <title>Ansible</title>
-      <link>https://blog.qikang451.cn/series/ansible/</link>
+      <link>https://lslxi.github.io/series/ansible/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://blog.qikang451.cn/series/ansible/</guid>
+      <guid>https://lslxi.github.io/series/ansible/</guid>
       <description></description>
     </item>
   </channel>
