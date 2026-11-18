@@ -105,6 +105,13 @@
       <description>GitLab 双主高可用部署方案:Praefect + NFS 共享存储 + Redis + PostgreSQL 集群。</description>
     </item>
     <item>
+      <title>Nginx 限流限速 1</title>
+      <link>https://lslxi.github.io/nginx-limit/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lslxi.github.io/nginx-limit/</guid>
+      <description>Nginx 限流限速模块 ngx_http_limit_req_module 和 ngx_http_limit_conn_module</description>
+    </item>
+    <item>
       <title>Docker - run</title>
       <link>https://lslxi.github.io/docker-run/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
